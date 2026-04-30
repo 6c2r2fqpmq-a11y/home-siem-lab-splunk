@@ -37,7 +37,7 @@ Created test account 'labtest' via PowerShell - Splunk captured EventCode 4720 w
 Enabled process creation auditing and confirmed Splunk captures all PowerShell execution via EventCode 4688.
 
 ## Incident Report 
-[View Full Incident Report](report/Incident report.docx)
+[View Full Incident Report](report/Incident%20report.docx)
 ## Screenshots
 
 ## Brute Force Detection
