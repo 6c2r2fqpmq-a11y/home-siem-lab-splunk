@@ -41,7 +41,7 @@ Enabled process creation auditing and confirmed Splunk captures all PowerShell e
 ## Screenshots
 
 ### Brute Force Detection
-
+![Brute Force Detection](screenshots/brute-force-detection.png)
 
 ### New User Account Created
 ![New User Account](screenshots/new-user-account.png)
