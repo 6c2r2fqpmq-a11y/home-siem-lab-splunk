@@ -38,6 +38,7 @@ Enabled process creation auditing and confirmed Splunk captures all PowerShell e
 
 ## Incident Report 
 [View Full Incident Report](report/Incident%20report.docx)
+
 ## Screenshots
 
 ### Brute Force Detection
@@ -48,5 +49,8 @@ Enabled process creation auditing and confirmed Splunk captures all PowerShell e
 
 ### PowerShell Execution
 ![PowerShell Detection](screenshots/powershell-detection.png)
+
+### All Saved Alerts
+![All Alerts](screenshots/all-alerts.png)
 
 
