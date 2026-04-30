@@ -41,6 +41,6 @@ Enabled process creation auditing and confirmed Splunk captures all PowerShell e
 ## Screenshots
 
 ## Brute Force Detection
-![Brute Force Detection](screenshots/Splunk-detecting-simulated-attacker-persistence-—-unauthorized-user-account-'labtest'-created-on-host-TheBrain.png)
+![Brute Force Detection](screenshots/powershell-detection.png)
 
 
