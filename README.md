@@ -1,7 +1,7 @@
 # home-siem-lab-splunk
 
 ## Objective
-Built a home SIEM envoirnment using Splunk Enterprise to simulate, detect, and investigate common attack techniques against a Windows host.
+Built a home SIEM environment using Splunk Enterprise to simulate, detect, and investigate common attack techniques against a Windows host.
 
 ## Tools Used
 - Splunk Enterprise 10.2.2
